@@ -1,0 +1,255 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family: verdna;
+	
+}
+div.wrapper {
+	background-color: #C9E0E3;
+	
+}
+
+header table tr td img {
+	
+   width:250px;
+   height:250px;	
+} 
+
+#logo{
+	width:25%;
+	height:auto;
+}
+.table-name{
+	text-align:right;
+}
+header table {
+	width: 100%;
+	height: 100px;
+    background: red; /* For browsers that do not support gradients */        
+    background: -webkit-linear-gradient(-90deg, #27C9C9, #366D6D); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(-90deg,#27C9C9, #366D6D); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(-90deg,#27C9C9, #366D6D); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(-90deg, #27C9C9,#366D6D); /* Standard syntax (must be last) */
+	}
+
+
+nav ul {
+	clear:both;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li {
+	list-style: none;
+	float: left;
+	font-size: 80%;
+}
+
+
+nav ul li a{
+	display: block;
+	height:auto;
+	font-weight: bold;
+	color: black;
+	border-right: 1px solid #bababa;
+	border-bottom: 1px solid #bababa;
+	padding: .735em 3.5em; /* 10px 15px */
+	text-decoration: none;
+}
+
+nav ul li a:hover {
+	background:#1F4044;
+	color:white;
+	border: 1px solid #b9b8a5;
+}
+
+nav form {
+	padding: 8.5px 50px;
+}
+nav {
+	width:90%;
+	clear:both;	
+}
+
+#content-wrapper{
+	padding:10px;
+	clear:both;
+}
+
+
+#col7 {
+	background-color:#C9E0E3;
+	padding:5px;
+	float: left;
+	width: 40%;
+	height:400px;
+    margin: 1em 2em 0 0;
+	
+}
+
+#col6 {
+	background-color:#C9E0E3;
+	padding:5px;
+	float: right;
+	width: 40%;
+	height:380px;
+	margin: 1em 2em 0 0;
+}
+#col8 {
+	background-color:#C9E0E3;
+	padding:5px;
+	float: left;
+	width: 40%;
+	height:400px;
+    margin: 1em 2em 0 0;
+	
+}
+
+#col9 {
+	background-color:#C9E0E3;
+	padding:5px;
+	float: right;
+	width: 40%;
+	height:380px;
+	margin: 1em 2em 0 0;
+}
+#col10 {
+	background-color:#C9E0E3;
+	padding:5px;
+	float: right;
+	width: 40%;
+	height:380px;
+	margin: 1em 2em 0 0;
+}
+#col11 {
+	background-color:#C9E0E3;
+	float: right;
+	
+	
+}
+
+footer {
+	background-color:#C9E0E3;
+	clear:both;
+}
+
+#col3 {
+	background-color:#C9E0E3;
+	float: left;
+	width: 20%;
+	margin: 1em 1em 1em 2em;
+}
+
+#col4 {
+	background-color:#C9E0E3;
+	float: left;
+	width: 20%;
+	margin: 1em 2em 0 0;
+}
+
+#col5 {
+	background-color:#C9E0E3;
+	float: left;
+	width: 20%;
+	margin: 1em 2em 0 0;
+}
+#copyright-wrapper p {
+	background-color:#C9E0E3;
+	clear:both;	
+	padding: .5em 0 .5em .5em;
+	background-repeat: repeat-x;
+	position: bottom;
+}
+
+
+footer #links-wrapper .footer-links-wrapper ul li a{
+	text-decoration:none;
+	color:black;
+}
+
+footer #links-wrapper .footer-links-wrapper ul li {
+	list-style: none;	
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 60%;
+    border-color: black;
+    align-self: centre;
+    border-top-right-radius: 2em;
+    
+    
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+
+#image {
+    margin-left: 3%;
+    margin-right: 3%;
+    width: 350px;
+    display: inline-block;
+}
+#image2 {
+    margin-left: 3%;
+    margin-right: 3%;
+    width: 400px;
+    display: inline-block;
+}
+#image3 {
+    margin-left: 3%;
+    margin-right: 3%;
+    width: 400px;
+    display: inline-block;
+}
+
+
+.imgleft {
+	float:left;
+	margin-top: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding-top: 0px;
+	padding-left: px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+	
+	.imgright {
+	float: right;
+	margin-top: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding-top: 0px;
+	padding-left: 15px;
+	display:inline-block;
+	}
+#tabimage tr td img
+{ 
+width: 420px;
+height: 250px;
+}
+{
+	font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 60%;
+    border-color: black;
+    align-self: centre;
+}
+              table
+              {
+                font-family: arial, sans-serif;
+                border-collapse: collapse;
+                width: 100%;
+              }
+            td, th 
+            {
+                    border: 1px solid #dddddd;
+                    text-align: left;
+                    padding: 8px;
+              }
